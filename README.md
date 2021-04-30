@@ -12,3 +12,5 @@ Michaella Mpundu & Abakar Issa
 -------|----------------|-------------------------------|------------
 2|Michaella Mpundu| 50%                           | Contributed
 -------|----------------|-------------------------------|------------
+# Link to the latex documentation
+https://www.overleaf.com/read/ykyknymwbvdb
