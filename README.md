@@ -1,3 +1,5 @@
-# AI_Summative
-
-Summative AssignmentInclusive and equitable quality education forallGroup presentationPresented byMichaella Mpundu and Abakar Issa
+# Summative Assignment
+# Inclusive and equitable quality education forall
+Group presentation
+# Presented by: 
+Michaella Mpundu and Abakar Issa
