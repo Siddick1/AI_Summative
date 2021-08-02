@@ -1,4 +1,4 @@
-# Summative Assignment
+
 # 
 Inclusive and equitable quality education forall
 Group presentation
